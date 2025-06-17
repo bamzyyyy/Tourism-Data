@@ -1,4 +1,4 @@
-# 🌍 Tourism Performance Dashboard | February Edition
+# 🌍 Tourism Performance Dashboard
 
 
 ## 📖 Project Overview
@@ -51,7 +51,8 @@ Built using sample tourism data to simulate real-world dynamics and demonstrate 
 
 ### Dashboard Overview
 
-![Dashboard Preview](Images/Tourism dashboard screenshot 2.png)
+![Tourism dashboard screenshot 1](https://github.com/user-attachments/assets/98ef4619-ba72-4432-bc0a-8070b6035b6b)
+
 
 
 ### 📎 How to Use This Report
