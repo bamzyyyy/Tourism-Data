@@ -48,3 +48,15 @@ Campaign Timing: Leverage peak months like May for testing high-impact campaigns
 
 ### 📂 Data Source
 Built using sample tourism data to simulate real-world dynamics and demonstrate how data storytelling and interactivity can empower tourism analytics.
+
+### Dashboard Overview
+
+![Dashboard Preview](Images/Tourism dashboard screenshot 2.png)
+
+
+### 📎 How to Use This Report
+- Download the Tableau report or open it directly.
+- Use filters to explore region-specific trends and seasonal insights.
+- Review visual summaries and insights for data-backed decision-making.
+
+#### 🔗 [Visit my Dashboard](https://public.tableau.com/app/profile/aminu.oluwarotimi/viz/Tourismanalytics/Dashboard1)
