@@ -34,8 +34,11 @@ This dashboard is a new initiative I launched to visualize tourism performance a
 
 ### 📈 Insights from the Dashboard
 🌟 South Region ranks highest across all key metrics — suggesting strong infrastructure and tourist appeal.
+
 🚧 Central Region underperforms — a clear candidate for strategic investment and improvement.
+
 📅 July delivers the highest satisfaction, while January sees lower scores, revealing a potential for seasonal experience optimization.
+
 📊 May marks a visitor peak — uncovering what drives this can help replicate success in other months.
 
 ### 💡 Recommendations
